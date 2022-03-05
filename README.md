@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devluki
 - 👀 I’m interested in JavaScript, frontend and backend
-- 🌱 I’m currently learning mainly JS, NODE.JS, CSS preprocessors 
+- 🌱 I’m currently learning JS, NODE.JS, CSS preprocessors 
 - 💞️ I’m looking to collaborate on js  fronted&backend projects 
 - 📫 How to reach me ... (I will update contatct soon :))
 
